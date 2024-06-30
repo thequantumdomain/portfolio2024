@@ -4,20 +4,22 @@
   <!-- <img src="./app/assets/images/cover.png" alt="SnapPay" width="100%"  height="auto" /> -->
 </div>
 
-# 📗 Contents
+# 📗 Table of Contents
 
 -   [📖 About the Project](#about-project)
-    -   [🛠 Tools](#tools)
+    -   [🛠 Built With](#built-with)
         -   [Tech Stack](#tech-stack)
-        -   [Features](#features)
+        -   [Key Features](#key-features)
     -   [🚀 Live Demo](#live-demo)
 -   [💻 Getting Started](#getting-started)
     -   [Setup](#setup)
     -   [Prerequisites](#prerequisites)
     -   [Install](#install)
     -   [Run tests](#run-tests)
+-   [👥 Authors](#authors)
 -   [🔭 Future Features](#future-features)
--   [⭐️ Support](#support)
+-   [🤝 Contributing](#contributing)
+-   [⭐️ Show your support](#support)
 -   [🔭 Acknowledgements](#acknowledgements)
 -   [❓ FAQ](#faq)
 -   [📝 License](#license)
@@ -26,9 +28,9 @@
 
 # 🎯 Portfolio <a name="about-project"></a>
 
-Welcome to my project portfolio, where I demonstrate my skills in web development! Leveraging a full tech stack including React, Next.js, and JavaScript. I build dynamic and engaging user interfaces that provide high-quality user experiences. To improve the visual appeal of my applications, I cultivate the adaptive nature of Tailwind CSS. I have integrated essential tools such as ESLint, Prettier, Husky, and lint-staged into my development environment. These tools ensure high-quality code, consistent formatting, and a fluent development process, enabling me to focus on delivering top-notch solutions.
+Welcome to my portfolio, where I showcase my expertise in web development, leveraging a powerful tech stack that includes React, Next.js, and JavaScript. By utilizing these cutting-edge technologies, I create dynamic and engaging user interfaces that deliver exceptional user experiences. To enhance the visual appeal of my projects, I harness the flexibility of Tailwind CSS for stylish and responsive designs.In my pursuit of excellence, I have integrated essential tools like ESLint, Prettier, Husky, and lint-staged into my development environment. These tools ensure high code quality, consistent formatting, and a smooth development process, enabling me to focus on delivering top-notch solutions.
 
-## 🛠 Tools  <a name="tools"></a>
+## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
@@ -43,7 +45,7 @@ Welcome to my project portfolio, where I demonstrate my skills in web developmen
 </details>
 
 <details>
-  <summary>Developments</summary>
+  <summary>Dev Essentials</summary>
   <ul>
     <li>Eslint</li>
     <li>Prettier</li>
@@ -61,14 +63,14 @@ Welcome to my project portfolio, where I demonstrate my skills in web developmen
 
 <!-- Features -->
 
-### Features <a name="key-features"></a>
+### Key Features <a name="key-features"></a>
 
-Key functionalities of the app:
+Main functionalities which the app will have:
 
--   Utilizes a tech stack including React, Next.js, and TypeScript for dynamic and interactive user interfaces.
--   Stylish and responsive designs achieved through implementation of Tailwind CSS for an enhanced visual experience.
--   A well-structured development environment with the integration of ESLint, Prettier, Husky, and lint-staged, ensuring high-quality code and a fluid development process.
--   Diverse sections such as "About Me," "Key Skills," "Projects," "Education," and "Resume" that offer valuable insights into the developer's background, skills, and experiences.
+-   Utilizes a powerful tech stack including React, Next.js, and TypeScript for dynamic and interactive user interfaces.
+-   Stylish and responsive designs achieved through the implementation of Tailwind CSS for an enhanced visual experience.
+-   A well-organized development environment with the integration of ESLint, Prettier, Husky, and lint-staged, ensuring high code quality and a smooth development process.
+-   Diverse sections such as "About Me," "My Skills," "Projects," "Education," and "Resume" that offer valuable insights into the developer's background, skills, and experiences.
 -   Inclusion of a "Blog" section featuring popular posts, and a working "Contact Form" to encourage communication and potential collaborations.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -77,7 +79,7 @@ Key functionalities of the app:
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-Coming soon.
+Will be added soon.
 
 <!-- - [Live Demo Link]()
 - [Presentation video]()
@@ -89,11 +91,11 @@ Coming soon.
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-To get a local repo up and running follow these simple example steps.
+To get a local copy up and running follow these simple example steps.
 
-### Pre-requisites
+### Prerequisites
 
-You must have the following tools installed on your local machine.
+You have to those tools in your local machine.
 
 -   [ ] NodeJs
 -   [ ] Any Code Editor (VS Code, Brackets, etc)
@@ -104,7 +106,7 @@ You must have the following tools installed on your local machine.
 Clone the project using the following bash command in an appropriate location.
 
 ```bash
-  git clone https://github.com/thequantumdomain/portfolio2024.git
+  git clone https://github.com/kaiumuddin/portfolio.git
 ```
 
 Go to the project directory.
@@ -115,7 +117,7 @@ Go to the project directory.
 
 ### Add necessary packages
 
-For installing the necessary packages, run the following bash command:
+For installing necessary packages, run the following bash command:
 
 ```bash
   npm install
@@ -141,17 +143,39 @@ For testing you can run:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- AUTHORS -->
+
+## 👥 Authors <a name="authors"></a>
+
+### First Author
+
+**Kaium Uddin**
+
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/kaiumuddin) [![linkedin](https://img.shields.io/badge/kaium-uddin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaium-uddin/) [![twitter](https://img.shields.io/badge/@kaiumuddin5-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kaiumuddin5)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## 🔭 Future Features <a name="future-features"></a>
 
--   [ ] **Live demo is coming soon**
+-   [ ] **Live demo will added soon**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTRIBUTING -->
+
+## 🤝 Contributing <a name="contributing"></a>
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../../issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- SUPPORT -->
 
-## 👋 Support <a name="support"></a>
+## 👋 Show your support <a name="support"></a>
 
-Drop a ⭐️ if you are a fan of this project!
+Give a ⭐️ if you like this project!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -159,7 +183,7 @@ Drop a ⭐️ if you are a fan of this project!
 
 ## 🔭Acknowledgments <a name="acknowledgements"></a>
 
--   My Tutors, Colleagues, University Professors, and YouTube tutorial legends.
+-   My Family.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -167,14 +191,14 @@ Drop a ⭐️ if you are a fan of this project!
 
 ## ❓ FAQ <a name="faq"></a>
 
--   **Can I apply this project for personal use?**
+-   **Can I use this project for personal use?**
 
-    -   Yes, this project is available for personal use.
+    -   Yes, you can use it.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 📝 License <a name="license"></a>
 
-The project is published with [MIT](./LICENSE) licensed.
+This project is [MIT](./LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
